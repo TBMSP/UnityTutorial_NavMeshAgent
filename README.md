@@ -19,6 +19,7 @@ public class Player:MonoBehaviour{
   void Start(){
     navMeshAgent=GetComponent<NavMeshAgent>();
   }
+  
   void Update(){
     if(Input.GetMouseButtonDown(0)){
       RaycastHit hit;
