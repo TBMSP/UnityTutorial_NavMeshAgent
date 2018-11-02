@@ -29,7 +29,7 @@ public class Player:MonoBehaviour{
         Instantiate(Punto,navMeshAgent.destination,Quaternion.identity);
       }
     }
-  PuntoCamara.position=Vector3.Lerp(PuntoCamara.position,transform.position,5*Time.deltaTime);
+    PuntoCamara.position=Vector3.Lerp(PuntoCamara.position,transform.position,5*Time.deltaTime);
   }
 }
 ```
