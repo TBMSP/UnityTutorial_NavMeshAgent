@@ -3,7 +3,7 @@ Este es un tutorial de como usar el NavMeshAgent en Unity3D, cuenta con un video
 
 Video de Youtube: https://youtu.be/fBSs9SQPsLo
 
-Paquete con el contenido del tutorial para Unity3D: 
+Paquete con el contenido del tutorial para Unity3D: <a href="https://github.com/TBMSP/UnityTutorial_NavMeshAgent/blob/master/AgentClick.unitypackage">AgentClick.unitypackage</a>
 
 ---
 
